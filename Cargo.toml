@@ -1,0 +1,10 @@
+[package]
+name = "self-pong"
+version = "0.1.0"
+authors = ["iThinkyouknow <woontlt.dev@gmail.com>"]
+
+[dependencies]
+piston = "^0.37"
+piston2d-graphics = "^0.26"
+pistoncore-glutin_window = "^0.47"
+piston2d-opengl_graphics = "^0.53"
